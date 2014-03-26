@@ -1,0 +1,12 @@
+ros-hydro-cob-tactiletools (0.5.1-1precise) precise; urgency=high
+
+  * update package.xml
+  * catkinized
+  * fixed tactile filters due to message movement to schunk repository
+  * changed to schunk_sdh
+  * moved to new stack
+  * Contributors: LucaLattanzi, ipa-fmw, ipa-fxm
+
+ -- Alexander Bubeck <aub@ipa.fhg.de>  Thu, 20 Mar 2014 23:00:00 -0000
+
+
