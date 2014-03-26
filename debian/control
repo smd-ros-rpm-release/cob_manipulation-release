@@ -1,0 +1,12 @@
+Source: ros-hydro-cob-tactiletools
+Section: misc
+Priority: extra
+Maintainer: Alexander Bubeck <aub@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/cob_manipulation/
+Standards-Version: 3.9.2
+
+Package: ros-hydro-cob-tactiletools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cob-srvs, ros-hydro-rospy, ros-hydro-schunk-sdh, ros-hydro-std-msgs
+Description: cob_tactiletools
