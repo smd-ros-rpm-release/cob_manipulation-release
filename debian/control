@@ -1,0 +1,12 @@
+Source: ros-hydro-cob-moveit-config
+Section: misc
+Priority: extra
+Maintainer: Mathias Luedtke <mdl@ipa.fhg.de>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://moveit.ros.org/
+Standards-Version: 3.9.2
+
+Package: ros-hydro-cob-moveit-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cob-hardware-config, ros-hydro-moveit-ros-move-group, ros-hydro-xacro
+Description: MoveIt config files for all cob and raw
