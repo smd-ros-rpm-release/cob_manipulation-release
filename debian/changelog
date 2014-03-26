@@ -1,0 +1,13 @@
+ros-hydro-cob-tray-monitor (0.5.1-1quantal) quantal; urgency=high
+
+  * update package.xml
+  * catkinized
+  * fixed tray_monitor and added filter to it (tys)
+  * add missing parameter file
+  * add launch test
+  * add tray monitor package
+  * Contributors: ipa-fmw, ipa-fxm, ipa-mdl
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Thu, 20 Mar 2014 23:00:00 -0000
+
+
