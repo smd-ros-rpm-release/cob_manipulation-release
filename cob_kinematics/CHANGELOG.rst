@@ -2,8 +2,18 @@
 Changelog for package cob_kinematics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.5.1 (2014-03-21)
+0.5.2 (2014-08-28)
 ------------------
+* update cob_moveit_config package for all robots
+* Contributors: Felix Messmer
+
+0.5.1 (2014-03-26)
+------------------
+* Merge branch 'hydro_dev' into hydro_release_candidate
+* update package maintainer
+* Merge branch 'hydro_dev' into hydro_release_candidate
+* catkin_lint and install tags
+* add changelogs
 * removed a lot of code related to packages not available in hydro anymore
 * added lapack to deps
 * move cob_mmcontroller + groovy_updates
@@ -81,4 +91,4 @@ Changelog for package cob_kinematics
 * fixed IK handling
 * added IK wrapper
 * new kinematics package
-* Contributors: Mathias Lüdtke, Witalij Siebert, ipa-fxm
+* Contributors: Florian Weisshardt, Mathias Lüdtke, Witalij Siebert, ipa-fxm

@@ -2,8 +2,19 @@
 Changelog for package cob_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.5.1 (2014-03-21)
+0.5.2 (2014-08-28)
 ------------------
+* update cob_moveit_config package for all robots
+* cob4-1 moveit config
+* changes due to renaming from sdh to gripper
+* Contributors: Felix Messmer, ipa-fxm
+
+0.5.1 (2014-03-26)
+------------------
+* Merge branch 'hydro_dev' into hydro_release_candidate
+* update package maintainer
+* catkin_lint and install tags
+* add changelogs
 * fix launch files
 * backup from cob3-3
 * use sensor info with moveit
@@ -70,4 +81,4 @@ Changelog for package cob_moveit_config
 * switched back to kdl solver for raw3-1
 * setup assistant launch file
 * added cob_moveit_config
-* Contributors: Jan Fischer, Jannik Abbenseth, Mathias Lüdtke, Witalij Siebert, ipa-fxm, rohit chandra
+* Contributors: Florian Weisshardt, Jan Fischer, Jannik Abbenseth, Mathias Lüdtke, Witalij Siebert, ipa-fxm, rohit chandra
