@@ -1,3 +1,33 @@
+## cob_manipulation (indigo) - 0.5.2-0
+
+The packages in the `cob_manipulation` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_manipulation --edit` on `Thu, 28 Aug 2014 11:24:33 -0000`
+
+These packages were released:
+- `cob_grasp_generation`
+- `cob_kinematics`
+- `cob_lookat_action`
+- `cob_manipulation`
+- `cob_moveit_config`
+- `cob_moveit_interface`
+- `cob_pick_place_action`
+- `cob_tactiletools`
+- `cob_tray_monitor`
+
+Version of package(s) in repository `cob_manipulation`:
+- upstream repository: https://github.com/ipa320/cob_manipulation.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## cob_manipulation (hydro) - 0.5.1-1
 
 User `fxm@sony-fxm` released the packages in the `cob_manipulation` repository into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro cob_manipulation` on `Wed, 26 Mar 2014 08:12:50 -0000`
