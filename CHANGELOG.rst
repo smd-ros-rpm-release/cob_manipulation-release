@@ -2,6 +2,14 @@
 Changelog for package cob_manipulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.0 (2014-09-18)
+------------------
+* Merge branch 'hydro_dev' into hydro_release_candidate
+* Merge branch 'hydro_dev' into hydro_release_candidate
+* 0.5.1
+* add changelogs
+* Contributors: Florian Weisshardt, ipa-fxm
+
 0.5.2 (2014-08-28)
 ------------------
 
